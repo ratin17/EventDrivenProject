@@ -1,0 +1,10 @@
+line no 1 in some.txt
+line no 2 in some.txt
+line no 3 in some.txt
+line no 4 in some.txt
+line no 5 in some.txt
+line no 6 in some.txt
+line no 7 in some.txt
+line no 8 in some.txt
+line no 9 in some.txt
+line no 10 in some.txt
